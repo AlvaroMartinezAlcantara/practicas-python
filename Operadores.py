@@ -13,14 +13,14 @@
 # print("hola"*3)#repeticio
 # print("hola"+"mundo"*3)#concatenacion y repeticion
 
-# #operadores de comparacion 
-# print("Hola"=="hola")#igual que
-# print("Hola"!="hola")#distinto que
+# #operadores de comparacion con respuestas de tipo booleanos 
+# print("Hola"=="hola")#dos veces el signo igual representa el igual que
+# print("Hola"!="hola")#el signo de exclamacion seguido del igual, significa distinto que
 # print(3>11)#mayor que
 # print(11>=10)#mayor o igual que
 # print(10<=10)#menor o igual que
 
-# #operadores de existencia
+# #operadores de existencia respuestas de tipo booleano
 # print("ola"in"Hola")#existencia
 # print("ola"not in"hola")#inexistencia
 
